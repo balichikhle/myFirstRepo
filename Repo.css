@@ -1,0 +1,9 @@
+body{
+    background-color: grey;
+   font-size: large;
+}
+
+body h1{
+    background: brown;
+    color: blue;
+}
